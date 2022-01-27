@@ -20,7 +20,9 @@ public final class Main {
 
    * <p>If you change your main robot class, change the parameter type.
 
-   * poop smells gu
+
+   * poop smells gud here -Jaquentin 
+   * I'm sorry I can't stop him-Adair
    */
   public static void main(String... args) {
     RobotBase.startRobot(Robot::new);
